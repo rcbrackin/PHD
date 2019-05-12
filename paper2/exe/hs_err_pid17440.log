@@ -1,0 +1,247 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 16384 bytes for AllocateHeap
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Zero Based Compressed Oops mode in which the Java heap is
+#     placed in the first 32GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 32GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (memory/allocation.inline.hpp:61), pid=17440, tid=0x0000000000006c94
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_201-b09) (build 1.8.0_201-b09)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.201-b09 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000000034de000):  JavaThread "main" [_thread_in_vm, id=27796, stack(0x00000000032f0000,0x00000000033f0000)]
+
+Stack: [0x00000000032f0000,0x00000000033f0000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+j  sun.security.rsa.RSAKeyFactory.generatePublic(Ljava/security/spec/KeySpec;)Ljava/security/PublicKey;+12
+j  sun.security.rsa.RSAKeyFactory.engineGeneratePublic(Ljava/security/spec/KeySpec;)Ljava/security/PublicKey;+2
+j  java.security.KeyFactory.generatePublic(Ljava/security/spec/KeySpec;)Ljava/security/PublicKey;+25
+j  sun.security.x509.X509Key.buildX509Key(Lsun/security/x509/AlgorithmId;Lsun/security/util/BitArray;)Ljava/security/PublicKey;+38
+j  sun.security.x509.X509Key.parse(Lsun/security/util/DerValue;)Ljava/security/PublicKey;+38
+j  sun.security.x509.CertificateX509Key.<init>(Lsun/security/util/DerInputStream;)V+11
+j  sun.security.x509.X509CertInfo.parse(Lsun/security/util/DerValue;)V+179
+j  sun.security.x509.X509CertInfo.<init>(Lsun/security/util/DerValue;)V+67
+j  sun.security.x509.X509CertImpl.parse(Lsun/security/util/DerValue;)V+227
+j  sun.security.x509.X509CertImpl.<init>([B)V+50
+j  sun.security.provider.X509Factory.engineGenerateCertificate(Ljava/io/InputStream;)Ljava/security/cert/Certificate;+54
+j  java.security.cert.CertificateFactory.generateCertificate(Ljava/io/InputStream;)Ljava/security/cert/Certificate;+5
+j  sun.security.pkcs.PKCS7.parseSignedData(Lsun/security/util/DerValue;)V+264
+j  sun.security.pkcs.PKCS7.parse(Lsun/security/util/DerInputStream;Z)V+47
+j  sun.security.pkcs.PKCS7.parse(Lsun/security/util/DerInputStream;)V+11
+j  sun.security.pkcs.PKCS7.<init>([B)V+50
+j  sun.security.util.SignatureFileVerifier.<init>(Ljava/util/ArrayList;Lsun/security/util/ManifestDigester;Ljava/lang/String;[B)V+45
+j  java.util.jar.JarVerifier.processEntry(Lsun/security/util/ManifestEntryVerifier;)V+311
+j  java.util.jar.JarVerifier.update(I[BIILsun/security/util/ManifestEntryVerifier;)V+39
+j  java.util.jar.JarFile.initializeVerifier()V+143
+j  java.util.jar.JarFile.ensureInitialization()V+32
+j  java.util.jar.JavaUtilJarAccessImpl.ensureInitialization(Ljava/util/jar/JarFile;)V+1
+j  sun.misc.URLClassPath$JarLoader$2.getManifest()Ljava/util/jar/Manifest;+10
+j  java.net.URLClassLoader.defineClass(Ljava/lang/String;Lsun/misc/Resource;)Ljava/lang/Class;+34
+j  java.net.URLClassLoader.access$100(Ljava/net/URLClassLoader;Ljava/lang/String;Lsun/misc/Resource;)Ljava/lang/Class;+3
+j  java.net.URLClassLoader$1.run()Ljava/lang/Class;+43
+j  java.net.URLClassLoader$1.run()Ljava/lang/Object;+1
+v  ~StubRoutines::call_stub
+j  java.security.AccessController.doPrivileged(Ljava/security/PrivilegedExceptionAction;Ljava/security/AccessControlContext;)Ljava/lang/Object;+0
+j  java.net.URLClassLoader.findClass(Ljava/lang/String;)Ljava/lang/Class;+13
+J 97 C1 java.lang.ClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class; (122 bytes) @ 0x0000000003719eb4 [0x0000000003719540+0x974]
+J 97 C1 java.lang.ClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class; (122 bytes) @ 0x0000000003719c54 [0x0000000003719540+0x714]
+j  sun.misc.Launcher$AppClassLoader.loadClass(Ljava/lang/String;Z)Ljava/lang/Class;+81
+j  java.lang.ClassLoader.loadClass(Ljava/lang/String;)Ljava/lang/Class;+3
+j  sun.security.jca.ProviderConfig$2.run()Ljava/security/Provider;+50
+j  sun.security.jca.ProviderConfig$2.run()Ljava/lang/Object;+1
+v  ~StubRoutines::call_stub
+j  java.security.AccessController.doPrivileged(Ljava/security/PrivilegedAction;)Ljava/lang/Object;+0
+j  sun.security.jca.ProviderConfig.doLoadProvider()Ljava/security/Provider;+8
+j  sun.security.jca.ProviderConfig.getProvider()Ljava/security/Provider;+88
+j  sun.security.jca.ProviderList.getProvider(I)Ljava/security/Provider;+6
+j  sun.security.jca.ProviderList.getService(Ljava/lang/String;Ljava/lang/String;)Ljava/security/Provider$Service;+13
+j  sun.security.jca.GetInstance.getInstance(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/String;)Lsun/security/jca/GetInstance$Instance;+7
+j  javax.net.ssl.SSLContext.getInstance(Ljava/lang/String;)Ljavax/net/ssl/SSLContext;+5
+j  org.apache.http.conn.ssl.SSLContexts.createDefault()Ljavax/net/ssl/SSLContext;+2
+j  org.apache.http.impl.client.HttpClientBuilder.build()Lorg/apache/http/impl/client/CloseableHttpClient;+155
+j  HarvestOAI.openServiceObject(LStatusLogger;Ljava/lang/String;)V+13
+j  HarvestOAIMain.main([Ljava/lang/String;)V+483
+v  ~StubRoutines::call_stub
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x000000001a47c800 JavaThread "Service Thread" daemon [_thread_blocked, id=33652, stack(0x000000001b650000,0x000000001b750000)]
+  0x000000001a475800 JavaThread "C1 CompilerThread1" daemon [_thread_blocked, id=23676, stack(0x000000001b550000,0x000000001b650000)]
+  0x000000001a418000 JavaThread "C2 CompilerThread0" daemon [_thread_blocked, id=46588, stack(0x000000001b450000,0x000000001b550000)]
+  0x000000001a421800 JavaThread "Attach Listener" daemon [_thread_blocked, id=30300, stack(0x000000001b350000,0x000000001b450000)]
+  0x000000001a420000 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=37580, stack(0x000000001b250000,0x000000001b350000)]
+  0x000000001a408800 JavaThread "Finalizer" daemon [_thread_blocked, id=11716, stack(0x000000001b060000,0x000000001b160000)]
+  0x00000000035ce800 JavaThread "Reference Handler" daemon [_thread_blocked, id=45084, stack(0x000000001af60000,0x000000001b060000)]
+=>0x00000000034de000 JavaThread "main" [_thread_in_vm, id=27796, stack(0x00000000032f0000,0x00000000033f0000)]
+
+Other Threads:
+  0x000000001a3e7000 VMThread [stack: 0x000000001ae60000,0x000000001af60000] [id=22144]
+  0x000000001a480000 WatcherThread [stack: 0x000000001b750000,0x000000001b850000] [id=33892]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x00000000034dd530] SystemDictionary_lock - owner thread: 0x00000000034de000
+[0x00000000034e0b50] Compile_lock - owner thread: 0x00000000034de000
+
+heap address: 0x0000000701c00000, size: 3044 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 3
+Compressed class space size: 1073741824 Address: 0x00000007c0000000
+
+Heap:
+ PSYoungGen      total 57344K, used 3932K [0x0000000780980000, 0x0000000784980000, 0x00000007c0000000)
+  eden space 49152K, 8% used [0x0000000780980000,0x0000000780d57108,0x0000000783980000)
+  from space 8192K, 0% used [0x0000000784180000,0x0000000784180000,0x0000000784980000)
+  to   space 8192K, 0% used [0x0000000783980000,0x0000000783980000,0x0000000784180000)
+ ParOldGen       total 131072K, used 0K [0x0000000701c00000, 0x0000000709c00000, 0x0000000780980000)
+  object space 131072K, 0% used [0x0000000701c00000,0x0000000701c00000,0x0000000709c00000)
+ Metaspace       used 4306K, capacity 4896K, committed 5248K, reserved 1056768K
+  class space    used 498K, capacity 528K, committed 640K, reserved 1048576K
+
+Card table byte_map: [0x00000000129a0000,0x0000000012fa0000] byte_map_base: 0x000000000f192000
+
+Marking Bits: (ParMarkBitMap*) 0x0000000076564ce0
+ Begin Bits: [0x00000000135a0000, 0x0000000016530000)
+ End Bits:   [0x0000000016530000, 0x00000000194c0000)
+
+Polling page: 0x0000000001380000
+
+CodeCache: size=245760Kb used=1370Kb max_used=1370Kb free=244389Kb
+ bounds [0x00000000035e0000, 0x0000000003850000, 0x00000000125e0000]
+ total_blobs=385 nmethods=132 adapters=167
+ compilation: enabled
+
+Compilation events (10 events):
+Event: 7.425 Thread 0x000000001a475800  128       3       java.util.HashMap::newNode (13 bytes)
+Event: 7.426 Thread 0x000000001a475800 nmethod 128 0x0000000003733f90 code [0x0000000003734100, 0x00000000037343b0]
+Event: 7.426 Thread 0x000000001a475800  129       3       java.util.HashMap::afterNodeInsertion (1 bytes)
+Event: 7.426 Thread 0x000000001a475800 nmethod 129 0x0000000003726350 code [0x00000000037264a0, 0x00000000037265f0]
+Event: 7.509 Thread 0x000000001a475800  131       3       sun.security.util.ObjectIdentifier::pack7Oid (84 bytes)
+Event: 7.510 Thread 0x000000001a475800 nmethod 131 0x00000000037348d0 code [0x0000000003734a60, 0x0000000003734df8]
+Event: 7.510 Thread 0x000000001a475800  130       3       sun.security.util.ObjectIdentifier::pack7Oid (42 bytes)
+Event: 7.510 Thread 0x000000001a475800 nmethod 130 0x0000000003734fd0 code [0x0000000003735140, 0x0000000003735368]
+Event: 7.510 Thread 0x000000001a475800  132       3       sun.security.util.ObjectIdentifier::checkOtherComponent (39 bytes)
+Event: 7.510 Thread 0x000000001a475800 nmethod 132 0x0000000003735410 code [0x0000000003735600, 0x0000000003735f48]
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (7 events):
+Event: 0.913 Thread 0x00000000034de000 Exception <a 'java/lang/NoSuchMethodError': Method sun.misc.Unsafe.defineClass(Ljava/lang/String;[BII)Ljava/lang/Class; name or signature does not match> (0x0000000780987cb0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u201\12322\hotspot
+Event: 0.913 Thread 0x00000000034de000 Exception <a 'java/lang/NoSuchMethodError': Method sun.misc.Unsafe.prefetchRead(Ljava/lang/Object;J)V name or signature does not match> (0x0000000780987f98) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u201\12322\hotspot\src\share\vm\prim
+Event: 2.131 Thread 0x00000000034de000 Exception <a 'java/security/PrivilegedActionException'> (0x0000000780b72860) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u201\12322\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 2.131 Thread 0x00000000034de000 Exception <a 'java/security/PrivilegedActionException'> (0x0000000780b72a70) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u201\12322\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 2.133 Thread 0x00000000034de000 Exception <a 'java/security/PrivilegedActionException'> (0x0000000780b766e0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u201\12322\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 2.133 Thread 0x00000000034de000 Exception <a 'java/security/PrivilegedActionException'> (0x0000000780b768f0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u201\12322\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 2.185 Thread 0x00000000034de000 Exception <a 'java/lang/NoClassDefFoundError': org/apache/log4j/Category> (0x0000000780bf5e88) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u201\12322\hotspot\src\share\vm\classfile\systemDictionary.cpp, line 199]
+
+Events (10 events):
+Event: 8.692 loading class java/security/spec/RSAPrivateCrtKeySpec
+Event: 8.692 loading class java/security/spec/RSAPrivateCrtKeySpec done
+Event: 8.692 loading class java/security/spec/PKCS8EncodedKeySpec
+Event: 8.692 loading class java/security/spec/PKCS8EncodedKeySpec done
+Event: 8.692 loading class sun/security/rsa/RSAPublicKeyImpl
+Event: 8.692 loading class java/security/interfaces/RSAPublicKey
+Event: 8.692 loading class java/security/interfaces/RSAKey
+Event: 8.692 loading class java/security/interfaces/RSAKey done
+Event: 8.692 loading class java/security/interfaces/RSAPublicKey done
+Event: 8.693 loading class sun/security/rsa/RSAPublicKeyImpl done
+
+
+Dynamic libraries:
+0x00007ff7a7ab0000 - 0x00007ff7a7ae7000 	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe
+0x00007ffc6f840000 - 0x00007ffc6fa21000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffc6f660000 - 0x00007ffc6f712000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ffc6bd90000 - 0x00007ffc6c003000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ffc6f540000 - 0x00007ffc6f5e1000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ffc6de20000 - 0x00007ffc6debe000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ffc6da90000 - 0x00007ffc6daeb000 	C:\WINDOWS\System32\sechost.dll
+0x00007ffc6d6e0000 - 0x00007ffc6d804000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ffc6d3e0000 - 0x00007ffc6d570000 	C:\WINDOWS\System32\USER32.dll
+0x00007ffc6ca60000 - 0x00007ffc6ca80000 	C:\WINDOWS\System32\win32u.dll
+0x00007ffc6f510000 - 0x00007ffc6f538000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ffc6c8c0000 - 0x00007ffc6ca52000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ffc6c720000 - 0x00007ffc6c7bf000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ffc6bc90000 - 0x00007ffc6bd8a000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ffc5fc80000 - 0x00007ffc5fee9000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.590_none_fb3d9bff3069e088\COMCTL32.dll
+0x00007ffc6daf0000 - 0x00007ffc6de12000 	C:\WINDOWS\System32\combase.dll
+0x00007ffc6bc10000 - 0x00007ffc6bc8a000 	C:\WINDOWS\System32\bcryptPrimitives.dll
+0x00007ffc6da60000 - 0x00007ffc6da8d000 	C:\WINDOWS\System32\IMM32.DLL
+0x00000000765f0000 - 0x00000000766c1000 	C:\Program Files\Java\jre1.8.0_201\bin\msvcr100.dll
+0x0000000075d40000 - 0x00000000765e4000 	C:\Program Files\Java\jre1.8.0_201\bin\server\jvm.dll
+0x00007ffc6da50000 - 0x00007ffc6da58000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ffc5f2b0000 - 0x00007ffc5f2b9000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffc6f5f0000 - 0x00007ffc6f65c000 	C:\WINDOWS\System32\WS2_32.dll
+0x00007ffc69cc0000 - 0x00007ffc69ce3000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffc60690000 - 0x00007ffc6069a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffc69c90000 - 0x00007ffc69cba000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ffc6c7c0000 - 0x00007ffc6c809000 	C:\WINDOWS\System32\cfgmgr32.dll
+0x00007ffc69d50000 - 0x00007ffc69d5f000 	C:\Program Files\Java\jre1.8.0_201\bin\verify.dll
+0x00007ffc60620000 - 0x00007ffc60649000 	C:\Program Files\Java\jre1.8.0_201\bin\java.dll
+0x00007ffc5cf30000 - 0x00007ffc5cf46000 	C:\Program Files\Java\jre1.8.0_201\bin\zip.dll
+0x00007ffc6e0c0000 - 0x00007ffc6f500000 	C:\WINDOWS\System32\SHELL32.dll
+0x00007ffc6d120000 - 0x00007ffc6d1c9000 	C:\WINDOWS\System32\shcore.dll
+0x00007ffc6c010000 - 0x00007ffc6c71d000 	C:\WINDOWS\System32\windows.storage.dll
+0x00007ffc6d9f0000 - 0x00007ffc6da41000 	C:\WINDOWS\System32\shlwapi.dll
+0x00007ffc6bbc0000 - 0x00007ffc6bbd1000 	C:\WINDOWS\System32\kernel.appcore.dll
+0x00007ffc6bbe0000 - 0x00007ffc6bbff000 	C:\WINDOWS\System32\profapi.dll
+0x00007ffc6bb50000 - 0x00007ffc6bb9c000 	C:\WINDOWS\System32\powrprof.dll
+0x00007ffc6bc00000 - 0x00007ffc6bc0a000 	C:\WINDOWS\System32\FLTLIB.DLL
+
+VM Arguments:
+java_command: OAIHarvest.jar R 5 http://130.217.226.8/oai/request C:\test\info_1617
+java_class_path (initial): OAIHarvest.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+CLASSPATH=C:\PHD_DEVELOPMENT\source\OAIHarvest\bin;C:\PHD_DEVELOPMENT\libraries\Java HTTP Libs
+PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\PuTTY\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;
+USERNAME=User
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 17134 (10.0.17134.556)
+
+CPU:total 2 (initial active 2) (2 cores per cpu, 1 threads per core) family 6 model 94 stepping 3, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, aes, clmul, erms, 3dnowpref, lzcnt, tsc, tscinvbit
+
+Memory: 4k page, physical 12461396k(4258188k free), swap 20853720k(94000k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.201-b09) for windows-amd64 JRE (1.8.0_201-b09), built on Dec 15 2018 18:36:39 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Tue Feb 26 15:33:52 2019
+timezone: GMT Standard Time
+elapsed time: 11 seconds (0d 0h 0m 11s)
+

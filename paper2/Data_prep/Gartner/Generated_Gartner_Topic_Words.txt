@@ -1,0 +1,750 @@
+Topic	TopicWord
+3D Bioprinting	3D
+3D Bioprinting	Bioprinting
+3D Bioprinting (organ transplant)	3D
+3D Bioprinting (organ transplant)	Bioprinting
+3D Bioprinting (organ transplant)	organ
+3D Bioprinting (organ transplant)	transplant
+3D Bio-printing Systems	3D
+3D Bio-printing Systems	Bio-printing
+3D Bio-printing Systems	Systems
+3D Flat Panel Displays	3D
+3D Flat Panel Displays	Flat
+3D Flat Panel Displays	Panel
+3D Flat Panel Displays	Displays
+3D Flat Panel TVs and Displays	3D
+3D Flat Panel TVs and Displays	Flat
+3D Flat Panel TVs and Displays	Panel
+3D Flat Panel TVs and Displays	TVs
+3D Flat Panel TVs and Displays	and
+3D Flat Panel TVs and Displays	Displays
+3D Printing	3D
+3D Printing	Printing
+3D Scanners	3D
+3D Scanners	Scanners
+3-D Web	3-D
+3-D Web	Web
+4D Printing	4D
+4D Printing	Printing
+4G	4G
+4G Standard	4G
+4G Standard	Standard
+802.11ax	802.11ax
+802.16 2004 WiMAX	802.16
+802.16 2004 WiMAX	2004
+802.16 2004 WiMAX	WiMAX
+Activity Streams	Activity
+Activity Streams	Streams
+Advanced Analytics	Advanced
+Advanced Analytics	Analytics
+Advanced Integration into Portals	Advanced
+Advanced Integration into Portals	Integration
+Advanced Integration into Portals	into
+Advanced Integration into Portals	Portals
+Advanced Web Services in Portals	Advanced
+Advanced Web Services in Portals	Web
+Advanced Web Services in Portals	Services
+Advanced Web Services in Portals	in
+Advanced Web Services in Portals	Portals
+Affective Computing	Affective
+Affective Computing	Computing
+AJAX	AJAX
+Ambient and Glancable Displays	Ambient
+Ambient and Glancable Displays	and
+Ambient and Glancable Displays	Glancable
+Ambient and Glancable Displays	Displays
+Application Platform Suite	Application
+Application Platform Suite	Platform
+Application Platform Suite	Suite
+Application Platform Suites	Application
+Application Platform Suites	Platform
+Application Platform Suites	Suites
+Application Stores	Application
+Application Stores	Stores
+ASPs	ASPs
+Audio Mining	Audio
+Audio Mining	Mining
+Audio Mining/Speech Analytics	Audio
+Audio Mining/Speech Analytics	Mining
+Audio Mining/Speech Analytics	Speech
+Audio Mining/Speech Analytics	Analytics
+Augmented Reality	Augmented
+Augmented Reality	Reality
+Automatic Content Recognition	Automatic
+Automatic Content Recognition	Content
+Automatic Content Recognition	Recognition
+Autometric Vehicles	Autometric
+Autometric Vehicles	Vehicles
+Autonomous Field Vehicles	Autonomous
+Autonomous Field Vehicles	Field
+Autonomous Field Vehicles	Vehicles
+Autonomous Vehicles	Autonomous
+Autonomous Vehicles	Vehicles
+Avanced Integration in Portals	Avanced
+Avanced Integration in Portals	Integration
+Avanced Integration in Portals	in
+Avanced Integration in Portals	Portals
+B2B E-Markets	B2B
+B2B E-Markets	E-Markets
+B2C E-Business	B2C
+B2C E-Business	E-Business
+Basic Search	Basic
+Basic Search	Search
+Basic Web Services	Basic
+Basic Web Services	Web
+Basic Web Services	Services
+Basic Web Services in Portals	Basic
+Basic Web Services in Portals	Web
+Basic Web Services in Portals	Services
+Basic Web Services in Portals	in
+Basic Web Services in Portals	Portals
+Basic Web Services Support in Portals	Basic
+Basic Web Services Support in Portals	Web
+Basic Web Services Support in Portals	Services
+Basic Web Services Support in Portals	Support
+Basic Web Services Support in Portals	in
+Basic Web Services Support in Portals	Portals
+Behavioural Economics	Behavioural
+Behavioural Economics	Economics
+Big Data	Big
+Big Data	Data
+Big Data Processing and Management	Big
+Big Data Processing and Management	Data
+Big Data Processing and Management	Processing
+Big Data Processing and Management	and
+Big Data Processing and Management	Management
+Bio-Acoustic Sensing	Bio-Acoustic
+Bio-Acoustic Sensing	Sensing
+Biochips	Biochips
+Biometric Authentication Methods	Biometric
+Biometric Authentication Methods	Authentication
+Biometric Authentication Methods	Methods
+Biometric Identity Documents	Biometric
+Biometric Identity Documents	Identity
+Biometric Identity Documents	Documents
+Biometric Payments	Biometric
+Biometric Payments	Payments
+Biometric User Identification	Biometric
+Biometric User Identification	User
+Biometric User Identification	Identification
+Biometrics	Biometrics
+Blockchain	Blockchain
+Bluetooth	Bluetooth
+BPM Suites	BPM
+BPM Suites	Suites
+Brain Computer Interface	Brain
+Brain Computer Interface	Computer
+Brain Computer Interface	Interface
+Broadband Over Powerlines	Broadband
+Broadband Over Powerlines	Over
+Broadband Over Powerlines	Powerlines
+Buiness Process corporate Platforms	Buiness
+Buiness Process corporate Platforms	Process
+Buiness Process corporate Platforms	corporate
+Buiness Process corporate Platforms	Platforms
+Business Process Fusion	Business
+Business Process Fusion	Process
+Business Process Fusion	Fusion
+Business Rules Engines	Business
+Business Rules Engines	Rules
+Business Rules Engines	Engines
+BYOD	BYOD
+Carbon Nanotubes	Carbon
+Carbon Nanotubes	Nanotubes
+Citizen Data Science	Citizen
+Citizen Data Science	Data
+Citizen Data Science	Science
+Cloud Computing	Cloud
+Cloud Computing	Computing
+Cloud Web Platforms	Cloud
+Cloud Web Platforms	Web
+Cloud Web Platforms	Platforms
+Cognitive Expert Advisors	Cognitive
+Cognitive Expert Advisors	Expert
+Cognitive Expert Advisors	Advisors
+Collective Intelligence	Collective
+Collective Intelligence	Intelligence
+Commercial UAVs	Commercial
+Commercial UAVs	UAVs
+Complex Event Processing	Complex
+Complex Event Processing	Event
+Complex Event Processing	Processing
+Computer Brain Interface	Computer
+Computer Brain Interface	Brain
+Computer Brain Interface	Interface
+Connected Home	Connected
+Connected Home	Home
+Consumer 3D Printing	Consumer
+Consumer 3D Printing	3D
+Consumer 3D Printing	Printing
+Consumer Generated Media	Consumer
+Consumer Generated Media	Generated
+Consumer Generated Media	Media
+Consumer Telematics	Consumer
+Consumer Telematics	Telematics
+Consumerisation	Consumerisation
+Content Analytics	Content
+Content Analytics	Analytics
+Context Brokering	Context
+Context Brokering	Brokering
+Context Delivery Architecture	Context
+Context Delivery Architecture	Delivery
+Context Delivery Architecture	Architecture
+Context Enriched Services	Context
+Context Enriched Services	Enriched
+Context Enriched Services	Services
+Contextual Personalisation	Contextual
+Contextual Personalisation	Personalisation
+Conversational User Interfaces	Conversational
+Conversational User Interfaces	User
+Conversational User Interfaces	Interfaces
+Corporate Blogging	Corporate
+Corporate Blogging	Blogging
+Corporate Senantic Web	Corporate
+Corporate Senantic Web	Senantic
+Corporate Senantic Web	Web
+Corporate Blogging	Corporate
+Corporate Blogging	Blogging
+Crowdsourcing	Crowdsourcing
+Cryptocurrencies	Cryptocurrencies
+Cryptocurrency Exchange	Cryptocurrency
+Cryptocurrency Exchange	Exchange
+Data Broker PaaS	Data
+Data Broker PaaS	Broker
+Data Broker PaaS	PaaS
+Data Science	Data
+Data Science	Science
+Desktop Portals 	Desktop
+Desktop Portals 	Portals
+Desktop Search	Desktop
+Desktop Search	Search
+Digital Dexterity	Digital
+Digital Dexterity	Dexterity
+Digital Ink	Digital
+Digital Ink	Ink
+Digital Paper/E-Paper	Digital
+Digital Paper/E-Paper	Paper
+Digital Paper/E-Paper	E-Paper
+Digital Security	Digital
+Digital Security	Security
+Digital Signatures	Digital
+Digital Signatures	Signatures
+DNA Logic	DNA
+DNA Logic	Logic
+E-Book Readers	E-Book
+E-Book Readers	Readers
+Electronic Ink/Digital Paper	Electronic
+Electronic Ink/Digital Paper	Ink
+Electronic Ink/Digital Paper	Digital
+Electronic Ink/Digital Paper	Paper
+Electronic Paper	Electronic
+Electronic Paper	Paper
+ElectroVibration	ElectroVibration
+Enterprise 3D Printing	Enterprise
+Enterprise 3D Printing	3D
+Enterprise 3D Printing	Printing
+Enterprise IM	Enterprise
+Enterprise IM	IM
+Enterprise Instant Messaging	Enterprise
+Enterprise Instant Messaging	Instant
+Enterprise Instant Messaging	Messaging
+Enterprise Portals	Enterprise
+Enterprise Portals	Portals
+Enterprise taxonomy and Ontology Man	Enterprise
+Enterprise taxonomy and Ontology Man	taxonomy
+Enterprise taxonomy and Ontology Man	and
+Enterprise taxonomy and Ontology Man	Ontology
+Enterprise taxonomy and Ontology Man	Man
+E-Payments	E-Payments
+Erasable Paper Printing Systems	Erasable
+Erasable Paper Printing Systems	Paper
+Erasable Paper Printing Systems	Printing
+Erasable Paper Printing Systems	Systems
+E-Tags	E-Tags
+Event Driven Architectures	Event
+Event Driven Architectures	Driven
+Event Driven Architectures	Architectures
+Expertese Location and Management	Expertese
+Expertese Location and Management	Location
+Expertese Location and Management	and
+Expertese Location and Management	Management
+Extreme Transaction Processing	Extreme
+Extreme Transaction Processing	Transaction
+Extreme Transaction Processing	Processing
+Federated Portals (Multi-Vendor)	Federated
+Federated Portals (Multi-Vendor)	Portals
+Federated Portals (Multi-Vendor)	Multi-Vendor
+Federated Portals within Vendor Familites	Federated
+Federated Portals within Vendor Familites	Portals
+Federated Portals within Vendor Familites	within
+Federated Portals within Vendor Familites	Vendor
+Federated Portals within Vendor Familites	Familites
+Folksonomies	Folksonomies
+Gamification	Gamification
+General Purpose Machine Intel	General
+General Purpose Machine Intel	Purpose
+General Purpose Machine Intel	Machine
+General Purpose Machine Intel	Intel
+Gesture Control	Gesture
+Gesture Control	Control
+Gesture Recognition	Gesture
+Gesture Recognition	Recognition
+Green IT	Green
+Green IT	IT
+Grid Computing	Grid
+Grid Computing	Computing
+Group Buying	Group
+Group Buying	Buying
+Handwriting Recognition	Handwriting
+Handwriting Recognition	Recognition
+Head-Mounted Displays	Head-Mounted
+Head-Mounted Displays	Displays
+Home Health Monitoring	Home
+Home Health Monitoring	Health
+Home Health Monitoring	Monitoring
+Hosted Portals 	Hosted
+Hosted Portals 	Portals
+Hosted Virtual Desktops	Hosted
+Hosted Virtual Desktops	Virtual
+Hosted Virtual Desktops	Desktops
+HTML5	HTML5
+Human Augmentation	Human
+Human Augmentation	Augmentation
+Hybrid Cloud Computing	Hybrid
+Hybrid Cloud Computing	Cloud
+Hybrid Cloud Computing	Computing
+Idea Management	Idea
+Idea Management	Management
+Identity Services	Identity
+Identity Services	Services
+Image Recognition	Image
+Image Recognition	Recognition
+In Memory Analytics	In
+In Memory Analytics	Memory
+In Memory Analytics	Analytics
+in memory Analytics	in
+in memory Analytics	memory
+in memory Analytics	Analytics
+In Memory DB Systems	In
+In Memory DB Systems	Memory
+In Memory DB Systems	DB
+In Memory DB Systems	Systems
+In Memory DBMS	In
+In Memory DBMS	Memory
+In Memory DBMS	DBMS
+Inkject Manufacturing	Inkject
+Inkject Manufacturing	Manufacturing
+Integrated Collaboration	Integrated
+Integrated Collaboration	Collaboration
+Integrated Content Management	Integrated
+Integrated Content Management	Content
+Integrated Content Management	Management
+Integrated OS Content Management	Integrated
+Integrated OS Content Management	OS
+Integrated OS Content Management	Content
+Integrated OS Content Management	Management
+Interactive TV	Interactive
+Interactive TV	TV
+Internet Micropayment Systems	Internet
+Internet Micropayment Systems	Micropayment
+Internet Micropayment Systems	Systems
+Internet Micro-payments	Internet
+Internet Micro-payments	Micro-payments
+Internet of Things	Internet
+Internet of Things	of
+Internet of Things	Things
+Internet TV	Internet
+Internet TV	TV
+Internet Web Services	Internet
+Internet Web Services	Web
+Internet Web Services	Services
+IOT Platform	IOT
+IOT Platform	Platform
+IPV6	IPV6
+Java Language	Java
+Java Language	Language
+Jini	Jini
+JSR168	JSR168
+JSR170	JSR170
+Linux on Desktop for Business	Linux
+Linux on Desktop for Business	on
+Linux on Desktop for Business	Desktop
+Linux on Desktop for Business	for
+Linux on Desktop for Business	Business
+Location Aware Applications	Location
+Location Aware Applications	Aware
+Location Aware Applications	Applications
+Location Aware Technology	Location
+Location Aware Technology	Aware
+Location Aware Technology	Technology
+Location Intelligence	Location
+Location Intelligence	Intelligence
+Location Sensing	Location
+Location Sensing	Sensing
+M2M Comms Services	M2M
+M2M Comms Services	Comms
+M2M Comms Services	Services
+Machine Learning	Machine
+Machine Learning	Learning
+Mashup	Mashup
+M-Commerce	M-Commerce
+Media Tablets	Media
+Media Tablets	Tablets
+Mesh Networks Sensor	Mesh
+Mesh Networks Sensor	Networks
+Mesh Networks Sensor	Sensor
+Micro fuel Cells	Micro
+Micro fuel Cells	fuel
+Micro fuel Cells	Cells
+Micro Portals	Micro
+Micro Portals	Portals
+Microblogging	Microblogging
+Micro-data Centres	Micro-data
+Micro-data Centres	Centres
+Micropayments	Micropayments
+Mobile Access to Portals	Mobile
+Mobile Access to Portals	Access
+Mobile Access to Portals	to
+Mobile Access to Portals	Portals
+Mobile Application Stores	Mobile
+Mobile Application Stores	Application
+Mobile Application Stores	Stores
+Mobile Health Monitoring	Mobile
+Mobile Health Monitoring	Health
+Mobile Health Monitoring	Monitoring
+Mobile OTA Payment	Mobile
+Mobile OTA Payment	OTA
+Mobile OTA Payment	Payment
+Mobile Phone Payments	Mobile
+Mobile Phone Payments	Phone
+Mobile Phone Payments	Payments
+Mobile Robots	Mobile
+Mobile Robots	Robots
+Model Driven Approaches	Model
+Model Driven Approaches	Driven
+Model Driven Approaches	Approaches
+Model Driven Architectures	Model
+Model Driven Architectures	Driven
+Model Driven Architectures	Architectures
+Nano-Computing	Nano-Computing
+Nanotube Electronics	Nanotube
+Nanotube Electronics	Electronics
+Natural Language Question Answering	Natural
+Natural Language Question Answering	Language
+Natural Language Question Answering	Question
+Natural Language Question Answering	Answering
+Natural Language Search	Natural
+Natural Language Search	Language
+Natural Language Search	Search
+Networked Collective Intelligence	Networked
+Networked Collective Intelligence	Collective
+Networked Collective Intelligence	Intelligence
+Neurobusiness	Neurobusiness
+Neuromorphic Hardware	Neuromorphic
+Neuromorphic Hardware	Hardware
+NFC Payment	NFC
+NFC Payment	Payment
+Off-line Ajax	Off-line
+Off-line Ajax	Ajax
+Off-line Portals	Off-line
+Off-line Portals	Portals
+Online Video	Online
+Online Video	Video
+Open Source Higher Education Portals	Open
+Open Source Higher Education Portals	Source
+Open Source Higher Education Portals	Higher
+Open Source Higher Education Portals	Education
+Open Source Higher Education Portals	Portals
+Open Source Horizontal Portals	Open
+Open Source Horizontal Portals	Source
+Open Source Horizontal Portals	Horizontal
+Open Source Horizontal Portals	Portals
+Open Source Portals	Open
+Open Source Portals	Source
+Open Source Portals	Portals
+Organic LEDs	Organic
+Organic LEDs	LEDs
+Over-the-air Mobile Payment Systems Developed Markets	Over-the-air
+Over-the-air Mobile Payment Systems Developed Markets	Mobile
+Over-the-air Mobile Payment Systems Developed Markets	Payment
+Over-the-air Mobile Payment Systems Developed Markets	Systems
+Over-the-air Mobile Payment Systems Developed Markets	Developed
+Over-the-air Mobile Payment Systems Developed Markets	Markets
+P2P	P2P
+P2P VOIP	P2P
+P2P VOIP	VOIP
+PDA Phones	PDA
+PDA Phones	Phones
+Peer to Peer Computing	Peer
+Peer to Peer Computing	to
+Peer to Peer Computing	Peer
+Peer to Peer Computing	Computing
+Pen-centric Tablet PCs	Pen-centric
+Pen-centric Tablet PCs	Tablet
+Pen-centric Tablet PCs	PCs
+People Literate Technology	People
+People Literate Technology	Literate
+People Literate Technology	Technology
+Personal Analytics	Personal
+Personal Analytics	Analytics
+Personal Fuel Cells	Personal
+Personal Fuel Cells	Fuel
+Personal Fuel Cells	Cells
+Personal Work Portals	Personal
+Personal Work Portals	Work
+Personal Work Portals	Portals
+Podcasting	Podcasting
+Portable Personality	Portable
+Portable Personality	Personality
+Portal Fabric	Portal
+Portal Fabric	Fabric
+Portal Ubiquity	Portal
+Portal Ubiquity	Ubiquity
+Portlets	Portlets
+Prediction Markets	Prediction
+Prediction Markets	Markets
+Predictive Analytics	Predictive
+Predictive Analytics	Analytics
+Prescriptive Analytics	Prescriptive
+Prescriptive Analytics	Analytics
+Prescriptive Analytics	Prescriptive
+Prescriptive Analytics	Analytics
+Private Cloud Computing	Private
+Private Cloud Computing	Cloud
+Private Cloud Computing	Computing
+Process Portals	Process
+Process Portals	Portals
+Public Key Infrastructure	Public
+Public Key Infrastructure	Key
+Public Key Infrastructure	Infrastructure
+Public Virtual Worlds	Public
+Public Virtual Worlds	Virtual
+Public Virtual Worlds	Worlds
+QR/Color Code	QR
+QR/Color Code	Color
+QR/Color Code	Code
+Qualified Self	Qualified
+Qualified Self	Self
+Quantum Computing	Quantum
+Quantum Computing	Computing
+Really Simple Syndication	Really
+Really Simple Syndication	Simple
+Really Simple Syndication	Syndication
+RFID (Case/Pallet)	RFID
+RFID (Case/Pallet)	Case
+RFID (Case/Pallet)	Pallet
+RFID (Item)	RFID
+RFID (Item)	Item
+RFID (Passive)	RFID
+RFID (Passive)	Passive
+Rich-Client Portals	Rich-Client
+Rich-Client Portals	Portals
+RIFD (Case/Pallet)	RIFD
+RIFD (Case/Pallet)	Case
+RIFD (Case/Pallet)	Pallet
+Role Based Personalisation	Role
+Role Based Personalisation	Based
+Role Based Personalisation	Personalisation
+RSS Enterprise	RSS
+RSS Enterprise	Enterprise
+Semantic Web	Semantic
+Semantic Web	Web
+Service Oriented architecture (SOA)	Service
+Service Oriented architecture (SOA)	Oriented
+Service Oriented architecture (SOA)	architecture
+Service Oriented architecture (SOA)	SOA
+Service Oriented Business Apps	Service
+Service Oriented Business Apps	Oriented
+Service Oriented Business Apps	Business
+Service Oriented Business Apps	Apps
+SES	SES
+Silicon Anode Batteries	Silicon
+Silicon Anode Batteries	Anode
+Silicon Anode Batteries	Batteries
+Smart Advisors	Smart
+Smart Advisors	Advisors
+Smart Cards	Smart
+Smart Cards	Cards
+Smart Data Discovery	Smart
+Smart Data Discovery	Data
+Smart Data Discovery	Discovery
+Smart Dust	Smart
+Smart Dust	Dust
+Smart Enterprise Suites	Smart
+Smart Enterprise Suites	Enterprise
+Smart Enterprise Suites	Suites
+Smart Robots	Smart
+Smart Robots	Robots
+Smart Workspace	Smart
+Smart Workspace	Workspace
+Smartphone	Smartphone
+SMB Portals	SMB
+SMB Portals	Portals
+SOA	SOA
+Social Analytics	Social
+Social Analytics	Analytics
+Social Computing Platforms	Social
+Social Computing Platforms	Computing
+Social Computing Platforms	Platforms
+Social Network Analysis	Social
+Social Network Analysis	Network
+Social Network Analysis	Analysis
+Social Software Suites	Social
+Social Software Suites	Software
+Social Software Suites	Suites
+Social TV	Social
+Social TV	TV
+Software as a Service/ASP	Software
+Software as a Service/ASP	as
+Software as a Service/ASP	a
+Software as a Service/ASP	Service
+Software as a Service/ASP	ASP
+Software Defined Anything	Software
+Software Defined Anything	Defined
+Software Defined Anything	Anything
+Software Defined Security	Software
+Software Defined Security	Defined
+Software Defined Security	Security
+Solid State Devices	Solid
+Solid State Devices	State
+Solid State Devices	Devices
+Speech Recognition for Mobile Devices	Speech
+Speech Recognition for Mobile Devices	Recognition
+Speech Recognition for Mobile Devices	for
+Speech Recognition for Mobile Devices	Mobile
+Speech Recognition for Mobile Devices	Devices
+Speech Recognition	Speech
+Speech Recognition	Recognition
+Speech Recognition in Call Centres	Speech
+Speech Recognition in Call Centres	Recognition
+Speech Recognition in Call Centres	in
+Speech Recognition in Call Centres	Call
+Speech Recognition in Call Centres	Centres
+Speech Recognition on Desktops	Speech
+Speech Recognition on Desktops	Recognition
+Speech Recognition on Desktops	on
+Speech Recognition on Desktops	Desktops
+Speech to Speech Translation	Speech
+Speech to Speech Translation	to
+Speech to Speech Translation	Speech
+Speech to Speech Translation	Translation
+Surface Computers	Surface
+Surface Computers	Computers
+Syndication	Syndication
+Synthetic Characters	Synthetic
+Synthetic Characters	Characters
+Tablet PC	Tablet
+Tablet PC	PC
+Tangible User Interfaces	Tangible
+Tangible User Interfaces	User
+Tangible User Interfaces	Interfaces
+Telepresences	Telepresences
+Tera-architectures	Tera-architectures
+Terahertz Waves	Terahertz
+Terahertz Waves	Waves
+Test to Speech	Test
+Test to Speech	to
+Test to Speech	Speech
+Text Analytics	Text
+Text Analytics	Analytics
+Text Mining	Text
+Text Mining	Mining
+Text-to-speech/Speech Synthesis	Text-to-speech
+Text-to-speech/Speech Synthesis	Speech
+Text-to-speech/Speech Synthesis	Synthesis
+Trusted Computing Group	Trusted
+Trusted Computing Group	Computing
+Trusted Computing Group	Group
+Video Analytics and Customer Services	Video
+Video Analytics and Customer Services	Analytics
+Video Analytics and Customer Services	and
+Video Analytics and Customer Services	Customer
+Video Analytics and Customer Services	Services
+Video Conferencing	Video
+Video Conferencing	Conferencing
+Video Search	Video
+Video Search	Search
+Video Telepresence	Video
+Video Telepresence	Telepresence
+Virtual Assistants	Virtual
+Virtual Assistants	Assistants
+Virtual Content Repositories	Virtual
+Virtual Content Repositories	Content
+Virtual Content Repositories	Repositories
+Virtual Content Repositories	Virtual
+Virtual Content Repositories	Content
+Virtual Content Repositories	Repositories
+Virtual Env/Virtual Worlds	Virtual
+Virtual Env/Virtual Worlds	Env
+Virtual Env/Virtual Worlds	Virtual
+Virtual Env/Virtual Worlds	Worlds
+Virtual Personal Assistants	Virtual
+Virtual Personal Assistants	Personal
+Virtual Personal Assistants	Assistants
+Virtual Personal Networks	Virtual
+Virtual Personal Networks	Personal
+Virtual Personal Networks	Networks
+Virtual Private Networks	Virtual
+Virtual Private Networks	Private
+Virtual Private Networks	Networks
+Virtual Reality	Virtual
+Virtual Reality	Reality
+Virtual Worlds	Virtual
+Virtual Worlds	Worlds
+Voice Over IP	Voice
+Voice Over IP	Over
+Voice Over IP	IP
+Voice Portals	Voice
+Voice Portals	Portals
+VoIP	VoIP
+Vol and Holo Displays	Vol
+Vol and Holo Displays	and
+Vol and Holo Displays	Holo
+Vol and Holo Displays	Displays
+Volumetric and Holo Displays	Volumetric
+Volumetric and Holo Displays	and
+Volumetric and Holo Displays	Holo
+Volumetric and Holo Displays	Displays
+Volumetric Displays	Volumetric
+Volumetric Displays	Displays
+WAP/Wireless Web	WAP
+WAP/Wireless Web	Wireless
+WAP/Wireless Web	Web
+Wearable User interfaces	Wearable
+Wearable User interfaces	User
+Wearable User interfaces	interfaces
+Wearables	Wearables
+Web 2.0	Web
+Web 2.0	2.0
+Web 2.0 Workplace tech	Web
+Web 2.0 Workplace tech	2.0
+Web 2.0 Workplace tech	Workplace
+Web 2.0 Workplace tech	tech
+Web Platforms	Web
+Web Platforms	Platforms
+Web Services	Web
+Web Services	Services
+Webtops	Webtops
+Wikis	Wikis
+Wireless Lans/802.11	Wireless
+Wireless Lans/802.11	Lans
+Wireless Lans/802.11	802.11
+Wireless Power	Wireless
+Wireless Power	Power
+Wireless Web/WAP	Wireless
+Wireless Web/WAP	Web
+Wireless Web/WAP	WAP
+WSRP	WSRP
+WSRP/JSR168 App Platform Suite	WSRP
+WSRP/JSR168 App Platform Suite	JSR168
+WSRP/JSR168 App Platform Suite	App
+WSRP/JSR168 App Platform Suite	Platform
+WSRP/JSR168 App Platform Suite	Suite
+XBRL	XBRL
+xDSL/Cable Modems	xDSL
+xDSL/Cable Modems	Cable
+xDSL/Cable Modems	Modems
+XML	XML
+XML-Based Multichannel Output	XML-Based
+XML-Based Multichannel Output	Multichannel
+XML-Based Multichannel Output	Output

@@ -1,0 +1,302 @@
+Topics
+3D Bioprinting
+3D Bioprinting (organ transplant)
+3D Bio-printing Systems
+3D Flat Panel Displays
+3D Flat Panel TVs and Displays
+3D Printing
+3D Scanners
+3-D Web
+4D Printing
+4G
+4G Standard
+802.11ax
+802.16 2004 WiMAX
+Activity Streams
+Advanced Analytics
+Advanced Integration into Portals
+Advanced Web Services in Portals
+Affective Computing
+AJAX
+Ambient and Glancable Displays
+Application Platform Suite
+Application Platform Suites
+Application Stores
+ASPs
+Audio Mining
+Audio Mining/Speech Analytics
+Augmented Reality
+Automatic Content Recognition
+Autometric Vehicles
+Autonomous Field Vehicles
+Autonomous Vehicles
+Avanced Integration in Portals
+B2B E-Markets
+B2C E-Business
+Basic Search
+Basic Web Services
+Basic Web Services in Portals
+Basic Web Services Support in Portals
+Behavioural Economics
+Big Data
+Big Data Processing and Management
+Bio-Acoustic Sensing
+Biochips
+Biometric Authentication Methods
+Biometric Identity Documents
+Biometric Payments
+Biometric User Identification
+Biometrics
+Blockchain
+Bluetooth
+BPM Suites
+Brain Computer Interface
+Broadband Over Powerlines
+Buiness Process corporate Platforms
+Business Process Fusion
+Business Rules Engines
+BYOD
+Carbon Nanotubes
+Citizen Data Science
+Cloud Computing
+Cloud Web Platforms
+Cognitive Expert Advisors
+Collective Intelligence
+Commercial UAVs
+Complex Event Processing
+Computer Brain Interface
+Connected Home
+Consumer 3D Printing
+Consumer Generated Media
+Consumer Telematics
+Consumerisation
+Content Analytics
+Context Brokering
+Context Delivery Architecture
+Context Enriched Services
+Contextual Personalisation
+Conversational User Interfaces
+Corporate Blogging
+Corporate Senantic Web
+Corporate Blogging
+Crowdsourcing
+Cryptocurrencies
+Cryptocurrency Exchange
+Data Broker PaaS
+Data Science
+Desktop Portals 
+Desktop Search
+Digital Dexterity
+Digital Ink
+Digital Paper/E-Paper
+Digital Security
+Digital Signatures
+DNA Logic
+E-Book Readers
+Electronic Ink/Digital Paper
+Electronic Paper
+ElectroVibration
+Enterprise 3D Printing
+Enterprise IM
+Enterprise Instant Messaging
+Enterprise Portals
+Enterprise taxonomy and Ontology Man
+E-Payments
+Erasable Paper Printing Systems
+E-Tags
+Event Driven Architectures
+Expertese Location and Management
+Extreme Transaction Processing
+Federated Portals (Multi-Vendor)
+Federated Portals within Vendor Familites
+Folksonomies
+Gamification
+General Purpose Machine Intel
+Gesture Control
+Gesture Recognition
+Green IT
+Grid Computing
+Group Buying
+Handwriting Recognition
+Head-Mounted Displays
+Home Health Monitoring
+Hosted Portals 
+Hosted Virtual Desktops
+HTML5
+Human Augmentation
+Hybrid Cloud Computing
+Idea Management
+Identity Services
+Image Recognition
+In Memory Analytics
+in memory Analytics
+In Memory DB Systems
+In Memory DBMS
+Inkject Manufacturing
+Integrated Collaboration
+Integrated Content Management
+Integrated OS Content Management
+Interactive TV
+Internet Micropayment Systems
+Internet Micro-payments
+Internet of Things
+Internet TV
+Internet Web Services
+IOT Platform
+IPV6
+Java Language
+Jini
+JSR168
+JSR170
+Linux on Desktop for Business
+Location Aware Applications
+Location Aware Technology
+Location Intelligence
+Location Sensing
+M2M Comms Services
+Machine Learning
+Mashup
+M-Commerce
+Media Tablets
+Mesh Networks Sensor
+Micro fuel Cells
+Micro Portals
+Microblogging
+Micro-data Centres
+Micropayments
+Mobile Access to Portals
+Mobile Application Stores
+Mobile Health Monitoring
+Mobile OTA Payment
+Mobile Phone Payments
+Mobile Robots
+Model Driven Approaches
+Model Driven Architectures
+Nano-Computing
+Nanotube Electronics
+Natural Language Question Answering
+Natural Language Search
+Networked Collective Intelligence
+Neurobusiness
+Neuromorphic Hardware
+NFC Payment
+Off-line Ajax
+Off-line Portals
+Online Video
+Open Source Higher Education Portals
+Open Source Horizontal Portals
+Open Source Portals
+Organic LEDs
+Over-the-air Mobile Payment Systems Developed Markets
+P2P
+P2P VOIP
+PDA Phones
+Peer to Peer Computing
+Pen-centric Tablet PCs
+People Literate Technology
+Personal Analytics
+Personal Fuel Cells
+Personal Work Portals
+Podcasting
+Portable Personality
+Portal Fabric
+Portal Ubiquity
+Portlets
+Prediction Markets
+Predictive Analytics
+Prescriptive Analytics
+Prescriptive Analytics
+Private Cloud Computing
+Process Portals
+Public Key Infrastructure
+Public Virtual Worlds
+QR/Color Code
+Qualified Self
+Quantum Computing
+Really Simple Syndication
+RFID (Case/Pallet)
+RFID (Item)
+RFID (Passive)
+Rich-Client Portals
+RIFD (Case/Pallet)
+Role Based Personalisation
+RSS Enterprise
+Semantic Web
+Service Oriented architecture (SOA)
+Service Oriented Business Apps
+SES
+Silicon Anode Batteries
+Smart Advisors
+Smart Cards
+Smart Data Discovery
+Smart Dust
+Smart Enterprise Suites
+Smart Robots
+Smart Workspace
+Smartphone
+SMB Portals
+SOA
+Social Analytics
+Social Computing Platforms
+Social Network Analysis
+Social Software Suites
+Social TV
+Software as a Service/ASP
+Software Defined Anything
+Software Defined Security
+Solid State Devices
+Speech Recognition for Mobile Devices
+Speech Recognition
+Speech Recognition in Call Centres
+Speech Recognition on Desktops
+Speech to Speech Translation
+Surface Computers
+Syndication
+Synthetic Characters
+Tablet PC
+Tangible User Interfaces
+Telepresences
+Tera-architectures
+Terahertz Waves
+Test to Speech
+Text Analytics
+Text Mining
+Text-to-speech/Speech Synthesis
+Trusted Computing Group
+Video Analytics and Customer Services
+Video Conferencing
+Video Search
+Video Telepresence
+Virtual Assistants
+Virtual Content Repositories
+Virtual Content Repositories
+Virtual Env/Virtual Worlds
+Virtual Personal Assistants
+Virtual Personal Networks
+Virtual Private Networks
+Virtual Reality
+Virtual Worlds
+Voice Over IP
+Voice Portals
+VoIP
+Vol and Holo Displays
+Volumetric and Holo Displays
+Volumetric Displays
+WAP/Wireless Web
+Wearable User interfaces
+Wearables
+Web 2.0
+Web 2.0 Workplace tech
+Web Platforms
+Web Services
+Webtops
+Wikis
+Wireless Lans/802.11
+Wireless Power
+Wireless Web/WAP
+WSRP
+WSRP/JSR168 App Platform Suite
+XBRL
+xDSL/Cable Modems
+XML
+XML-Based Multichannel Output
